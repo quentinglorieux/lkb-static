@@ -1,0 +1,368 @@
+@font-face {
+  font-family: 'sciencek';
+  src: url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.eot?46784529');
+  src: url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.eot?46784529#iefix') format('embedded-opentype'),
+       url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.woff2?46784529') format('woff2'),
+       url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.woff?46784529') format('woff'),
+       url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.ttf?46784529') format('truetype'),
+       url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.svg?46784529#sciencek') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'sciencek';
+    src: url('/wp-content/uploads/elementor/custom-icons/sciencek/font/sciencek.svg?46784529#sciencek') format('svg');
+  }
+}
+*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "sciencek";
+  font-style: normal;
+  font-weight: normal;
+  speak: never;
+
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  
+  text-align: center;
+  /* opacity: .8; */
+
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  
+
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.icon-account-circle-1:before { content: '\e800'; } /* '' */
+.icon-account-group-2:before { content: '\e801'; } /* '' */
+.icon-account-group-4:before { content: '\e802'; } /* '' */
+.icon-account-group-1:before { content: '\e803'; } /* '' */
+.icon-alarm-clock:before { content: '\e804'; } /* '' */
+.icon-bicycle-road:before { content: '\e805'; } /* '' */
+.icon-book-open-1:before { content: '\e806'; } /* '' */
+.icon-bookmark-all-2:before { content: '\e807'; } /* '' */
+.icon-bubble-chat-graph-1:before { content: '\e808'; } /* '' */
+.icon-button:before { content: '\e809'; } /* '' */
+.icon-button-direction:before { content: '\e80a'; } /* '' */
+.icon-calendar-1:before { content: '\e80b'; } /* '' */
+.icon-calendar-download:before { content: '\e80c'; } /* '' */
+.icon-car-4:before { content: '\e80d'; } /* '' */
+.icon-computer-notebook-2:before { content: '\e80e'; } /* '' */
+.icon-crosshair-1:before { content: '\e80f'; } /* '' */
+.icon-earth-moon-orbit:before { content: '\e810'; } /* '' */
+.icon-email-send-1:before { content: '\e811'; } /* '' */
+.icon-flow-chart-3:before { content: '\e812'; } /* '' */
+.icon-globe-1:before { content: '\e813'; } /* '' */
+.icon-graph-bar-3:before { content: '\e814'; } /* '' */
+.icon-group-global:before { content: '\e815'; } /* '' */
+.icon-group-wifi:before { content: '\e816'; } /* '' */
+.icon-group-refresh:before { content: '\e817'; } /* '' */
+.icon-hierarchy-business:before { content: '\e818'; } /* '' */
+.icon-honeycomb:before { content: '\e819'; } /* '' */
+.icon-inflator-pump:before { content: '\e81a'; } /* '' */
+.icon-location-pin-1:before { content: '\e81b'; } /* '' */
+.icon-lightbulb-4:before { content: '\e81c'; } /* '' */
+.icon-location-pin-direction-1:before { content: '\e81d'; } /* '' */
+.icon-logo-circle-github-2:before { content: '\e81e'; } /* '' */
+.icon-logo-circle-youtube:before { content: '\e81f'; } /* '' */
+.icon-logo-circle-youtube-clip:before { content: '\e820'; } /* '' */
+.icon-logo-circle-twitter-bird:before { content: '\e821'; } /* '' */
+.icon-logo-circle-tripit:before { content: '\e822'; } /* '' */
+.icon-logo-circle-linkedin:before { content: '\e823'; } /* '' */
+.icon-logo-circle-gabbr:before { content: '\e824'; } /* '' */
+.icon-logo-dzone:before { content: '\e825'; } /* '' */
+.icon-logo-new-circle-google-plus:before { content: '\e826'; } /* '' */
+.icon-logout-3:before { content: '\e827'; } /* '' */
+.icon-medal-4:before { content: '\e828'; } /* '' */
+.icon-megaphone-1:before { content: '\e829'; } /* '' */
+.icon-navigation-circle-down:before { content: '\e82a'; } /* '' */
+.icon-navigation-circle-left:before { content: '\e82b'; } /* '' */
+.icon-navigation-circle-right:before { content: '\e82c'; } /* '' */
+.icon-navigation-circle-up:before { content: '\e82d'; } /* '' */
+.icon-network-people:before { content: '\e82e'; } /* '' */
+.icon-paragraph-two-columns:before { content: '\e82f'; } /* '' */
+.icon-presentation-pie-graph:before { content: '\e830'; } /* '' */
+.icon-rgb-color:before { content: '\e831'; } /* '' */
+.icon-rank-army-star-badge-2:before { content: '\e832'; } /* '' */
+.icon-science-beaker:before { content: '\e833'; } /* '' */
+.icon-science-atom-1:before { content: '\e834'; } /* '' */
+.icon-safety-buoy:before { content: '\e835'; } /* '' */
+.icon-school-graduation:before { content: '\e836'; } /* '' */
+.icon-science-brain:before { content: '\e837'; } /* '' */
+.icon-science-bacteria:before { content: '\e838'; } /* '' */
+.icon-science-chemical:before { content: '\e839'; } /* '' */
+.icon-science-test-tube:before { content: '\e83a'; } /* '' */
+.icon-science-chemistry:before { content: '\e83b'; } /* '' */
+.icon-science-chemistry-equipment:before { content: '\e83c'; } /* '' */
+.icon-science-dna:before { content: '\e83d'; } /* '' */
+.icon-science-lightbulb:before { content: '\e83e'; } /* '' */
+.icon-science-proton:before { content: '\e83f'; } /* '' */
+.icon-science-the-core:before { content: '\e840'; } /* '' */
+.icon-share:before { content: '\e841'; } /* '' */
+.icon-speech-stand:before { content: '\e842'; } /* '' */
+.icon-speed-gauge:before { content: '\e843'; } /* '' */
+.icon-train-1:before { content: '\e844'; } /* '' */
+.icon-espresso-machine-1:before { content: '\e845'; } /* '' */
+.icon-radio-3:before { content: '\e846'; } /* '' */
+.icon-search:before { content: '\e847'; } /* '' */
+.icon-server-view-1:before { content: '\e848'; } /* '' */
+.icon-vector-handle:before { content: '\e849'; } /* '' */
+.icon-translate:before { content: '\e84a'; } /* '' */
+.icon-video-clip-2:before { content: '\e84b'; } /* '' */
+.icon-area-circle:before { content: '\e84c'; } /* '' */
+.icon-binoculars:before { content: '\e84d'; } /* '' */
+.icon-bin-1:before { content: '\e84e'; } /* '' */
+.icon-blur-linear:before { content: '\e84f'; } /* '' */
+.icon-books-library:before { content: '\e850'; } /* '' */
+.icon-brick-wall:before { content: '\e851'; } /* '' */
+.icon-building-9:before { content: '\e852'; } /* '' */
+.icon-building-6:before { content: '\e853'; } /* '' */
+.icon-calendar-add-1:before { content: '\e854'; } /* '' */
+.icon-car-2:before { content: '\e855'; } /* '' */
+.icon-cog:before { content: '\e856'; } /* '' */
+.icon-compass-3:before { content: '\e857'; } /* '' */
+.icon-design-mug:before { content: '\e858'; } /* '' */
+.icon-donut:before { content: '\e859'; } /* '' */
+.icon-door-enter:before { content: '\e85a'; } /* '' */
+.icon-door-exit:before { content: '\e85b'; } /* '' */
+.icon-globe-pin:before { content: '\e85c'; } /* '' */
+.icon-hand-flick-horizontal:before { content: '\e85d'; } /* '' */
+.icon-highlight:before { content: '\e85e'; } /* '' */
+.icon-hourglass-1:before { content: '\e85f'; } /* '' */
+.icon-house-book:before { content: '\e860'; } /* '' */
+.icon-id-card-2:before { content: '\e861'; } /* '' */
+.icon-id-picture-1:before { content: '\e862'; } /* '' */
+.icon-key-hole-1:before { content: '\e863'; } /* '' */
+.icon-key-2:before { content: '\e864'; } /* '' */
+.icon-layers-show:before { content: '\e865'; } /* '' */
+.icon-link-3:before { content: '\e866'; } /* '' */
+.icon-loading-4:before { content: '\e867'; } /* '' */
+.icon-location-user:before { content: '\e868'; } /* '' */
+.icon-lock-circle:before { content: '\e869'; } /* '' */
+.icon-logo-orkut:before { content: '\e86a'; } /* '' */
+.icon-logo-skype:before { content: '\e86b'; } /* '' */
+.icon-logo-whatsapp:before { content: '\e86c'; } /* '' */
+.icon-logo-circle-wikipedia:before { content: '\e86d'; } /* '' */
+.icon-logo-circle-rss:before { content: '\e86e'; } /* '' */
+.icon-loop-infinite-2:before { content: '\e86f'; } /* '' */
+.icon-map-target-1:before { content: '\e870'; } /* '' */
+.icon-mirror-small:before { content: '\e871'; } /* '' */
+.icon-microphone-3:before { content: '\e872'; } /* '' */
+.icon-medical-shield:before { content: '\e873'; } /* '' */
+.icon-oil-derrick:before { content: '\e874'; } /* '' */
+.icon-painting-canvas:before { content: '\e875'; } /* '' */
+.icon-phone-book-1:before { content: '\e876'; } /* '' */
+.icon-remove-circle-1:before { content: '\e877'; } /* '' */
+.icon-satellite:before { content: '\e878'; } /* '' */
+.icon-signal-tower-1:before { content: '\e879'; } /* '' */
+.icon-television-1:before { content: '\e87a'; } /* '' */
+.icon-trophy-3:before { content: '\e87b'; } /* '' */
+.icon-video-meeting-laptop:before { content: '\e87c'; } /* '' */
+.icon-window-code-3:before { content: '\e87d'; } /* '' */
+.icon-wifi-modem-2:before { content: '\e87e'; } /* '' */
+.icon-account-files:before { content: '\e87f'; } /* '' */
+.icon-building-14:before { content: '\e880'; } /* '' */
+.icon-barcode-scan:before { content: '\e881'; } /* '' */
+.icon-astronaut-1:before { content: '\e882'; } /* '' */
+.icon-building-3:before { content: '\e883'; } /* '' */
+.icon-calendar-check-2:before { content: '\e884'; } /* '' */
+.icon-calendar-timeout:before { content: '\e885'; } /* '' */
+.icon-calendar-edit-2:before { content: '\e886'; } /* '' */
+.icon-circle:before { content: '\e887'; } /* '' */
+.icon-google-nest:before { content: '\e888'; } /* '' */
+.icon-graph-bar-movement:before { content: '\e889'; } /* '' */
+.icon-move-up-1:before { content: '\e88a'; } /* '' */
+.icon-prism:before { content: '\e88b'; } /* '' */
+.icon-science-wormhole:before { content: '\e88c'; } /* '' */
+.icon-touch-up-2:before { content: '\e88d'; } /* '' */
+.icon-logo-circle-google:before { content: '\e88e'; } /* '' */
+.icon-logo-circle-windows:before { content: '\e88f'; } /* '' */
+.icon-abacus:before { content: '\e890'; } /* '' */
+.icon-color-palette:before { content: '\e891'; } /* '' */
+.icon-list-bullets-1:before { content: '\e892'; } /* '' */
+.icon-logo-circle-ning:before { content: '\e893'; } /* '' */
+.icon-logo-circle-mubi:before { content: '\e894'; } /* '' */
+.icon-logo-ning:before { content: '\e895'; } /* '' */
+.icon-navigation-show-more-2:before { content: '\e896'; } /* '' */
+.icon-at-sign-circle:before { content: '\e897'; } /* '' */
+.icon-compass-2:before { content: '\e898'; } /* '' */
+.icon-email-circle:before { content: '\e899'; } /* '' */
+.icon-navigation-next-2:before { content: '\e89a'; } /* '' */
+.icon-account-flash:before { content: '\e89b'; } /* '' */
+.icon-coin-point:before { content: '\e89c'; } /* '' */
+.icon-copy-1:before { content: '\e89d'; } /* '' */
+.icon-crop-1:before { content: '\e89e'; } /* '' */
+.icon-download-notebook:before { content: '\e89f'; } /* '' */
+.icon-eclipse-lunar:before { content: '\e8a0'; } /* '' */
+.icon-network-protect:before { content: '\e8a1'; } /* '' */
+.icon-picture-3:before { content: '\e8a2'; } /* '' */
+.icon-planet-ring-2:before { content: '\e8a3'; } /* '' */
+.icon-rocket-orbit:before { content: '\e8a4'; } /* '' */
+.icon-bubble-chat-2:before { content: '\e8a5'; } /* '' */
+.icon-camera-flash-on:before { content: '\e8a6'; } /* '' */
+.icon-pen-write-2:before { content: '\e8a7'; } /* '' */
+.icon-pin-1:before { content: '\e8a8'; } /* '' */
+.icon-equaliser-2:before { content: '\e8a9'; } /* '' */
+.icon-science-test-tube-holder:before { content: '\e8aa'; } /* '' */
+.icon-coin-star:before { content: '\e8ab'; } /* '' */
+.icon-origami-paper-bird:before { content: '\e8ac'; } /* '' */
+.icon-logo-circle-facebook:before { content: '\e8ad'; } /* '' */
+.icon-help-circle:before { content: '\e8ae'; } /* '' */
+.icon-inaturalist:before { content: '\e900'; } /* '' */
+.icon-inaturalist-square:before { content: '\e901'; } /* '' */
+.icon-inpn:before { content: '\e902'; } /* '' */
+.icon-inpn-square:before { content: '\e903'; } /* '' */
+.icon-sci-hub-square:before { content: '\e905'; } /* '' */
+.icon-preregistered:before { content: '\e906'; } /* '' */
+.icon-moodle:before { content: '\e907'; } /* '' */
+.icon-moodle-square:before { content: '\e908'; } /* '' */
+.icon-cv-square:before { content: '\e90a'; } /* '' */
+.icon-africarxiv-square:before { content: '\e90b'; } /* '' */
+.icon-piazza-square:before { content: '\e90c'; } /* '' */
+.icon-psyarxiv:before { content: '\e90e'; } /* '' */
+.icon-psyarxiv-square:before { content: '\e90f'; } /* '' */
+.icon-elsevier-square:before { content: '\e910'; } /* '' */
+.icon-zenodo:before { content: '\e911'; } /* '' */
+.icon-cienca-vitae:before { content: '\e912'; } /* '' */
+.icon-cienca-vitae-square:before { content: '\e913'; } /* '' */
+.icon-overleaf:before { content: '\e914'; } /* '' */
+.icon-conversation-square:before { content: '\e915'; } /* '' */
+.icon-ssrn:before { content: '\e916'; } /* '' */
+.icon-ssrn-square:before { content: '\e917'; } /* '' */
+.icon-crossref:before { content: '\e918'; } /* '' */
+.icon-crossref-square:before { content: '\e919'; } /* '' */
+.icon-researcherid:before { content: '\e91a'; } /* '' */
+.icon-africarxiv:before { content: '\e91b'; } /* '' */
+.icon-datacite:before { content: '\e91c'; } /* '' */
+.icon-datacite-square:before { content: '\e91d'; } /* '' */
+.icon-scopus:before { content: '\e91e'; } /* '' */
+.icon-scopus-square:before { content: '\e91f'; } /* '' */
+.icon-stackoverflow:before { content: '\e920'; } /* '' */
+.icon-stackoverflow-square:before { content: '\e921'; } /* '' */
+.icon-pubpeer:before { content: '\e922'; } /* '' */
+.icon-pubpeer-square:before { content: '\e923'; } /* '' */
+.icon-springer:before { content: '\e928'; } /* '' */
+.icon-ieee:before { content: '\e929'; } /* '' */
+.icon-obp:before { content: '\e92a'; } /* '' */
+.icon-obp-square:before { content: '\e92b'; } /* '' */
+.icon-hal:before { content: '\e92c'; } /* '' */
+.icon-hal-square:before { content: '\e92d'; } /* '' */
+.icon-acclaim:before { content: '\e92e'; } /* '' */
+.icon-ceur-square:before { content: '\e92f'; } /* '' */
+.icon-osf-square:before { content: '\e931'; } /* '' */
+.icon-zotero-square:before { content: '\e932'; } /* '' */
+.icon-isidore:before { content: '\e936'; } /* '' */
+.icon-publons:before { content: '\e937'; } /* '' */
+.icon-jstor:before { content: '\e938'; } /* '' */
+.icon-open-access:before { content: '\e939'; } /* '' */
+.icon-acclaim-square:before { content: '\e93a'; } /* '' */
+.icon-acm:before { content: '\e93c'; } /* '' */
+.icon-academia-square:before { content: '\e93d'; } /* '' */
+.icon-dblp-square:before { content: '\e93f'; } /* '' */
+.icon-nakala:before { content: '\e940'; } /* '' */
+.icon-nakala-square:before { content: '\e941'; } /* '' */
+.icon-closed-access:before { content: '\e942'; } /* '' */
+.icon-closed-access-square:before { content: '\e943'; } /* '' */
+.icon-jstor-square:before { content: '\e944'; } /* '' */
+.icon-openedition:before { content: '\e946'; } /* '' */
+.icon-openedition-square:before { content: '\e947'; } /* '' */
+.icon-ror:before { content: '\e948'; } /* '' */
+.icon-ror-square:before { content: '\e949'; } /* '' */
+.icon-ads-square:before { content: '\e94a'; } /* '' */
+.icon-depsy-square:before { content: '\e94b'; } /* '' */
+.icon-conversation:before { content: '\e94c'; } /* '' */
+.icon-publons-square:before { content: '\e94e'; } /* '' */
+.icon-dblp:before { content: '\e94f'; } /* '' */
+.icon-mtmt:before { content: '\e950'; } /* '' */
+.icon-mtmt-square:before { content: '\e951'; } /* '' */
+.icon-protocols:before { content: '\e952'; } /* '' */
+.icon-protocols-square:before { content: '\e953'; } /* '' */
+.icon-isidore-square:before { content: '\e954'; } /* '' */
+.icon-archive:before { content: '\e955'; } /* '' */
+.icon-archive-square:before { content: '\e956'; } /* '' */
+.icon-sci-hub:before { content: '\e959'; } /* '' */
+.icon-hypothesis:before { content: '\e95a'; } /* '' */
+.icon-hypothesis-square:before { content: '\e95b'; } /* '' */
+.icon-researcherid-square:before { content: '\e95c'; } /* '' */
+.icon-acm-square:before { content: '\e95d'; } /* '' */
+.icon-researchgate:before { content: '\e95e'; } /* '' */
+.icon-coursera:before { content: '\e95f'; } /* '' */
+.icon-elsevier:before { content: '\e961'; } /* '' */
+.icon-zotero:before { content: '\e962'; } /* '' */
+.icon-open-data:before { content: '\e966'; } /* '' */
+.icon-open-data-square:before { content: '\e967'; } /* '' */
+.icon-open-materials:before { content: '\e968'; } /* '' */
+.icon-open-materials-square:before { content: '\e969'; } /* '' */
+.icon-acmdl:before { content: '\e96a'; } /* '' */
+.icon-preregistered-square:before { content: '\e96b'; } /* '' */
+.icon-semantic-scholar-square:before { content: '\e96c'; } /* '' */
+.icon-ceur:before { content: '\e96d'; } /* '' */
+.icon-semantic-scholar:before { content: '\e96e'; } /* '' */
+.icon-philpapers-square:before { content: '\e96f'; } /* '' */
+.icon-arxiv:before { content: '\e974'; } /* '' */
+.icon-depsy:before { content: '\e97a'; } /* '' */
+.icon-mathoverflow-square:before { content: '\e97b'; } /* '' */
+.icon-dryad:before { content: '\e97c'; } /* '' */
+.icon-pubmed-square:before { content: '\e97d'; } /* '' */
+.icon-doi:before { content: '\e97e'; } /* '' */
+.icon-coursera-square:before { content: '\e97f'; } /* '' */
+.icon-figshare:before { content: '\e981'; } /* '' */
+.icon-phipapers:before { content: '\e98a'; } /* '' */
+.icon-biorxiv-square:before { content: '\e98b'; } /* '' */
+.icon-dryad-square:before { content: '\e98c'; } /* '' */
+.icon-overleaf-square:before { content: '\e98d'; } /* '' */
+.icon-scirate:before { content: '\e98e'; } /* '' */
+.icon-doi-square:before { content: '\e98f'; } /* '' */
+.icon-piazza:before { content: '\e99a'; } /* '' */
+.icon-springer-square:before { content: '\e99b'; } /* '' */
+.icon-lattes-square:before { content: '\e99c'; } /* '' */
+.icon-scirate-square:before { content: '\e99d'; } /* '' */
+.icon-researchgate-square:before { content: '\e99e'; } /* '' */
+.icon-pubmed:before { content: '\e99f'; } /* '' */
+.icon-uniE9A2:before { content: '\e9a2'; } /* '' */
+.icon-cv:before { content: '\e9a5'; } /* '' */
+.icon-arxiv-square:before { content: '\e9a6'; } /* '' */
+.icon-impactstory-square:before { content: '\e9aa'; } /* '' */
+.icon-academia:before { content: '\e9af'; } /* '' */
+.icon-lattes:before { content: '\e9b3'; } /* '' */
+.icon-ieee-square:before { content: '\e9b9'; } /* '' */
+.icon-orcid-square:before { content: '\e9c3'; } /* '' */
+.icon-ads:before { content: '\e9cb'; } /* '' */
+.icon-impactstory:before { content: '\e9cf'; } /* '' */
+.icon-acmdl-square:before { content: '\e9d3'; } /* '' */
+.icon-google-scholar:before { content: '\e9d4'; } /* '' */
+.icon-orcid:before { content: '\e9d9'; } /* '' */
+.icon-dataverse-square:before { content: '\e9e4'; } /* '' */
+.icon-figshare-square:before { content: '\e9e7'; } /* '' */
+.icon-inspire:before { content: '\e9e9'; } /* '' */
+.icon-ideas-repec:before { content: '\e9ed'; } /* '' */
+.icon-osf:before { content: '\e9ef'; } /* '' */
+.icon-mendeley:before { content: '\e9f0'; } /* '' */
+.icon-mendeley-square:before { content: '\e9f3'; } /* '' */
+.icon-open-access-square:before { content: '\e9f4'; } /* '' */
+.icon-mathoverflow:before { content: '\e9f6'; } /* '' */
+.icon-dataverse:before { content: '\e9f7'; } /* '' */
+.icon-ideas-repec-square:before { content: '\e9f8'; } /* '' */
+.icon-google-scholar-square:before { content: '\e9f9'; } /* '' */
+.icon-inspire-square:before { content: '\e9fe'; } /* '' */
