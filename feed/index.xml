@@ -12,12 +12,29 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Physique Quantique &#38; Applications</description>
-	<lastBuildDate>Fri, 14 Oct 2022 21:21:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 14:47:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<item>
+		<title>test</title>
+		<link>/test/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 07:07:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=724</guid>
+
+					<description><![CDATA[xxx]]></description>
+										<content:encoded><![CDATA[
+<p>xxx</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
 </rss>
