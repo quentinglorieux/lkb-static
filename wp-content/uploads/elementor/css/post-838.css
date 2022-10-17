@@ -1,0 +1,20 @@
+.elementor-838 .elementor-element.elementor-element-2e1f9160.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-838 .elementor-element.elementor-element-2e1f9160 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-838 .elementor-element.elementor-element-79c37123 .elementor-icon-wrapper{text-align:center;}.elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );color:var( --e-global-color-text );}.elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-framed .elementor-icon, .elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-framed .elementor-icon, .elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-framed .elementor-icon{background-color:var( --e-global-color-text );}.elementor-838 .elementor-element.elementor-element-79c37123.elementor-view-stacked .elementor-icon svg{fill:var( --e-global-color-text );}.elementor-838 .elementor-element.elementor-element-79c37123 .elementor-icon{font-size:30px;}.elementor-838 .elementor-element.elementor-element-79c37123 .elementor-icon i, .elementor-838 .elementor-element.elementor-element-79c37123 .elementor-icon svg{transform:rotate(0deg);}.elementor-838 .elementor-element.elementor-element-79c37123 > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-838 .elementor-element.elementor-element-79c37123{width:auto;max-width:auto;}.tippy-box[data-theme~='theme_79c37123']{background-color:var( --e-global-color-primary );color:var( --e-global-color-accent );border-radius:10px 10px 10px 10px !important;}.tippy-box[data-theme~='theme_79c37123'] > .tippy-arrow:before{border-top-color:var( --e-global-color-primary );}/* Start custom CSS for icon, class: .elementor-element-79c37123 */.elementor-838 .elementor-element.elementor-element-79c37123 .elementor-icon
+{
+    padding: 20px 18px 19px 20px;
+}
+
+.elementor-838 .elementor-element.elementor-element-79c37123 .elementor-icon-wrapper::after
+{
+content:"";
+position: absolute;
+right: auto;
+top:10%;
+width: 40px;
+height: 2px;
+border-bottom: 5px solid #eee;
+    box-sizing: border-box;
+    z-index: 10;
+    color: #eee;
+/*font-family: 'Montserrat', sans-serif;*/
+text-align: center;
+}/* End custom CSS */
