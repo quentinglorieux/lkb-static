@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2014 &#8211; LKB</title>
+	<atom:link href="/publication_year/2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Physique Quantique &#38; Applications</description>
+	<lastBuildDate>Tue, 11 Oct 2022 08:18:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Determination of Scale-Invariant Equations of State without Fitting
+   Parameters: Application to the Two-Dimensional Bose Gas Across the
+   Berezinskii-Kosterlitz-Thouless Transition</title>
+		<link>/publication/determination-of-scale-invariant-equations-of-state-without-fitting-parameters-application-to-the-two-dimensional-bose-gas-across-the-berezinskii-kosterlitz-thouless-transition/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:18:59 +0000</pubDate>
+				<guid isPermaLink="false">/blog/publication/determination-of-scale-invariant-equations-of-state-without-fitting-parameters-application-to-the-two-dimensional-bose-gas-across-the-berezinskii-kosterlitz-thouless-transition/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Motion of a Solitonic Vortex in the BEC-BCS Crossover</title>
+		<link>/publication/motion-of-a-solitonic-vortex-in-the-bec-bcs-crossover/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:18:59 +0000</pubDate>
+				<guid isPermaLink="false">/blog/publication/motion-of-a-solitonic-vortex-in-the-bec-bcs-crossover/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
