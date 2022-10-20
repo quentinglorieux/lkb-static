@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2017 &#8211; LKB</title>
+	<atom:link href="/publication_year/2017/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Physique Quantique &#38; Applications</description>
+	<lastBuildDate>Thu, 20 Oct 2022 10:12:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Creating a bosonic fractional quantum Hall state by pairing fermions</title>
+		<link>/publication/creating-a-bosonic-fractional-quantum-hall-state-by-pairing-fermions/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:18:59 +0000</pubDate>
+				<guid isPermaLink="false">/blog/publication/creating-a-bosonic-fractional-quantum-hall-state-by-pairing-fermions/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Homogeneous Atomic Fermi Gases</title>
+		<link>/publication/homogeneous-atomic-fermi-gases/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:18:58 +0000</pubDate>
+				<guid isPermaLink="false">/blog/publication/homogeneous-atomic-fermi-gases/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Connecting Few-Body Inelastic Decay to Quantum Correlations in a
+   Many-Body System: A Weakly Coupled Impurity in a Resonant Fermi Gas</title>
+		<link>/publication/connecting-few-body-inelastic-decay-to-quantum-correlations-in-a-many-body-system-a-weakly-coupled-impurity-in-a-resonant-fermi-gas/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 08:18:57 +0000</pubDate>
+				<guid isPermaLink="false">/blog/publication/connecting-few-body-inelastic-decay-to-quantum-correlations-in-a-many-body-system-a-weakly-coupled-impurity-in-a-resonant-fermi-gas/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
