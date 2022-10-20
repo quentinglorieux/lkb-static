@@ -1,0 +1,19 @@
+.elementor-1354 .elementor-element.elementor-element-f148ffc.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-start;}.elementor-1354 .elementor-element.elementor-element-f148ffc > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-1354 .elementor-element.elementor-element-16b0320e img{width:80px;height:80px;object-fit:cover;border-style:solid;border-width:3px 3px 3px 3px;border-color:var( --e-global-color-primary );border-radius:50px 50px 50px 50px;}.elementor-1354 .elementor-element.elementor-element-16b0320e > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-1354 .elementor-element.elementor-element-16b0320e{width:auto;max-width:auto;}.elementor-1354 .elementor-element.elementor-element-5582131d .elementor-icon-wrapper{text-align:center;}.elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-1518b4b );color:var( --e-global-color-353116d );}.elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-framed .elementor-icon, .elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-default .elementor-icon{color:var( --e-global-color-1518b4b );border-color:var( --e-global-color-1518b4b );}.elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-framed .elementor-icon, .elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-1518b4b );}.elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-framed .elementor-icon{background-color:var( --e-global-color-353116d );}.elementor-1354 .elementor-element.elementor-element-5582131d.elementor-view-stacked .elementor-icon svg{fill:var( --e-global-color-353116d );}.elementor-1354 .elementor-element.elementor-element-5582131d .elementor-icon{font-size:18px;}.elementor-1354 .elementor-element.elementor-element-5582131d .elementor-icon i, .elementor-1354 .elementor-element.elementor-element-5582131d .elementor-icon svg{transform:rotate(0deg);}.elementor-1354 .elementor-element.elementor-element-5582131d > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-1354 .elementor-element.elementor-element-5582131d{width:auto;max-width:auto;top:-8px;}body:not(.rtl) .elementor-1354 .elementor-element.elementor-element-5582131d{left:-16px;}body.rtl .elementor-1354 .elementor-element.elementor-element-5582131d{right:-16px;}.tippy-box[data-theme~='theme_5582131d']{background-color:var( --e-global-color-primary );color:var( --e-global-color-accent );border-radius:10px 10px 10px 10px !important;}.tippy-box[data-theme~='theme_5582131d'] > .tippy-arrow:before{border-top-color:var( --e-global-color-primary );}/* Start custom CSS for image, class: .elementor-element-16b0320e */.elementor-1354 .elementor-element.elementor-element-16b0320e .elementor-image::after
+{
+content:"";
+position: absolute;
+right: auto;
+top:10%;
+width: 40px;
+height: 2px;
+border-bottom: 5px solid #eee;
+    box-sizing: border-box;
+    z-index: 10;
+    color: #eee;
+/*font-family: 'Montserrat', sans-serif;*/
+text-align: center;
+}/* End custom CSS */
+/* Start custom CSS for icon, class: .elementor-element-5582131d */.elementor-1354 .elementor-element.elementor-element-5582131d .elementor-icon
+{
+    padding: 10px 8px 8px 10px;
+}/* End custom CSS */
