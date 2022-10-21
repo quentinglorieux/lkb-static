@@ -1,9 +1,5 @@
 jQuery( document ).ready( function($) {
-    // $(".member").css('position','absolute');
 
-    // console.log($('.member-name').text());
-    console.log(autocomplete.liste);
-    // console.log(document.getElementById('rbw_search_input'));
     function search(inp) {
 
       /*the autocomplete function takes two arguments,
@@ -12,19 +8,14 @@ jQuery( document ).ready( function($) {
       /*execute a function when someone writes in the text field:*/
       inp.addEventListener("input", function(e) {
     
-          var a, b, i, val = this.value;
-          first='';
-          if (val.indexOf(',') > -1) { list=val.split(',')
-          first = list.slice(0,-1).join(',');
-    
-          val=list[list.length-1];
-          val=val.trim();
-           }
+          var  val = this.value;
            val=val.trim().toLowerCase();
            
         var list = document.getElementsByClassName("member");
+
         for (let item of list) {
             member_name=item.getElementsByClassName("member-name")[0].textContent.trim().toLowerCase();
+            
             status_name=item.getElementsByClassName("rb-status-name")[0].textContent.trim().toLowerCase();
             team_name=item.getElementsByClassName("rb-team-name")[0].textContent.trim().toLowerCase();
             if(member_name.includes(val) || status_name.includes(val) || team_name.includes(val) ){
@@ -44,10 +35,12 @@ jQuery( document ).ready( function($) {
 });
     
 
-jQuery( function($) {
-    console.log(autocomplete.liste)
-    var availableTags = ['a','b'];
-    jQuery( "#rbw_search_input" ).autocomplete({
-      source: availableTags
-    });
-  } );
+// jQuery( function($) {
+//     console.log(autocomplete.liste)
+//     var availableTags = autocomplete.liste;
+//     jQuery( "#rbw_search_input" ).autocomplete({
+//       source: availableTags,
+     
+//     minLength:2,
+//     });
+//   } );
