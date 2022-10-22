@@ -1,0 +1,8 @@
+.elementor-2148 .elementor-element.elementor-element-6924efb > .elementor-container{max-width:1000px;}.elementor-2148 .elementor-element.elementor-element-6924efb{margin-top:50px;margin-bottom:0px;}.elementor-2148 .elementor-element.elementor-element-305dc27e .elementor-heading-title{color:var( --e-global-color-353116d );}.elementor-2148 .elementor-element.elementor-element-305dc27e > .elementor-widget-container{padding:0px 0px 10px 0px;}.elementor-2148 .elementor-element.elementor-element-1bc3406b .grid-page{justify-content:left;}.elementor-2148 .elementor-element.elementor-element-1bc3406b .dce-view-pane{padding:20px 20px 20px 20px;}@media(max-width:600px){.elementor-2148 .elementor-element.elementor-element-1bc3406b .grid-page{justify-content:center;}}/* Start custom CSS for heading, class: .elementor-element-305dc27e */.elementor-2148 .elementor-element.elementor-element-305dc27e::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  border-bottom: 1.5px solid #1415334A;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);}/* End custom CSS */
