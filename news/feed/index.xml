@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; LKB</title>
+	<atom:link href="/news/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Physique Quantique &#38; Applications</description>
+	<lastBuildDate>Fri, 21 Oct 2022 09:43:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Les résultats finaux de la mission MICROSCOPE atteignent une précision record</title>
+		<link>/news/les-resultats-finaux-de-la-mission-microscope-atteignent-une-precision-record/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 21 Oct 2022 09:41:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=news&#038;p=1571</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hélium superfluide et pressions négatives</title>
+		<link>/news/helium-superfluide-et-pressions-negatives/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 10:40:13 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=news&#038;p=1086</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
