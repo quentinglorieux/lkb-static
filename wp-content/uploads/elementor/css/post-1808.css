@@ -1,0 +1,15 @@
+.elementor-1808 .elementor-element.elementor-element-649f28bd.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-start;}.elementor-1808 .elementor-element.elementor-element-649f28bd > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-1808 .elementor-element.elementor-element-167a83d0 img{width:80px;height:80px;object-fit:cover;border-style:solid;border-width:3px 3px 3px 3px;border-color:var( --e-global-color-primary );border-radius:50px 50px 50px 50px;}.elementor-1808 .elementor-element.elementor-element-167a83d0 > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-1808 .elementor-element.elementor-element-167a83d0{width:auto;max-width:auto;}/* Start custom CSS for image, class: .elementor-element-167a83d0 */.elementor-1808 .elementor-element.elementor-element-167a83d0 .elementor-image::after
+{
+content:"";
+position: absolute;
+right: auto;
+top:10%;
+width: 40px;
+height: 2px;
+border-bottom: 5px solid #eee;
+    box-sizing: border-box;
+    z-index: 10;
+    color: #eee;
+/*font-family: 'Montserrat', sans-serif;*/
+text-align: center;
+}/* End custom CSS */
