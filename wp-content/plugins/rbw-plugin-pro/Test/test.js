@@ -320,7 +320,7 @@ jQuery( document ).ready( function($) {
       var list = document.getElementsByClassName("teams");
       for (let item of list) {
         // console.log(item)
-        team_name=item.getElementsByClassName("team_name")[0].textContent.trim().toLowerCase();
+        team_name=item.getElementsByClassName("team_name")[0].textContent.trim();
         console.log(team_name);
         
         if(list_of_good_teams.includes(team_name)){
@@ -332,5 +332,8 @@ jQuery( document ).ready( function($) {
       } 
   });
   };
-  select_team_by_member(document.getElementById('rbw_search_team_input'));
+  if (!(document.getElementById('rbw_search_team_input')==null)){
+    select_team_by_member(document.getElementById('rbw_search_team_input'));
+}
+  
 });
