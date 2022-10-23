@@ -150,7 +150,7 @@
 
  
 
-      jQuery( document ).ready( function($) {
+jQuery( document ).ready( function($) {
 
 
         function autocomplete(inp, arr) {
@@ -197,6 +197,8 @@
                   }
                 }
             });
+
+
             /*execute a function presses a key on the keyboard:*/
             inp.addEventListener("keydown", function(e) {
               
@@ -260,6 +262,7 @@
         
 
       autocomplete(document.getElementById("rbw_search_input"), test_localise.pub_tags);
+
       })
 
 
@@ -287,3 +290,47 @@
        }
    }
     }
+
+
+
+function is_member_in_team(search){
+  val=search.trim().toLowerCase();
+  var teams = test_localise.team_array;
+  console.log(teams)
+  list_of_good_teams=[]
+  for(team in teams) {
+    members=teams[team]
+    for (let member of members){
+      member=member.toLowerCase();
+      if (member.includes(search))
+      list_of_good_teams.push(team)     
+    }
+  }
+  console.log(list_of_good_teams);
+  return(list_of_good_teams)
+};
+
+jQuery( document ).ready( function($) {
+  function select_team_by_member(inp) {
+    inp.addEventListener("input", function(e) {
+      var  val = this.value;
+      list_of_good_teams=is_member_in_team(val);
+      
+      console.log(list_of_good_teams)
+      var list = document.getElementsByClassName("teams");
+      for (let item of list) {
+        // console.log(item)
+        team_name=item.getElementsByClassName("team_name")[0].textContent.trim().toLowerCase();
+        console.log(team_name);
+        
+        if(list_of_good_teams.includes(team_name)){
+                  item.style.display="block";
+                  item.style.position="relative";
+          }else{
+              item.style.display="none";       
+          }
+      } 
+  });
+  };
+  select_team_by_member(document.getElementById('rbw_search_team_input'));
+});
