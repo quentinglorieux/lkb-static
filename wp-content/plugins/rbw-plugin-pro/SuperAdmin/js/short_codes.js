@@ -30,8 +30,10 @@ jQuery( document ).ready( function($) {
     });
     
     };
-
-    search(document.getElementById('rbw_search_input'));
+    if (!(document.getElementById('rbw_search_input')==null)){
+        search(document.getElementById('rbw_search_input'));
+    }
+    
 });
     
 
