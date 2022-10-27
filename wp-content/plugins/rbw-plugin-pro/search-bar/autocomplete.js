@@ -1,7 +1,8 @@
 jQuery( document ).ready( function($) {
+    
 
 
-    function autocomplete(inp, cpt,search_data) {
+    function autocomplete(inp, search_data) {
         /*the autocomplete function takes two arguments,
         the text field element and an array of possible autocompleted values:*/
         var currentFocus;
@@ -84,12 +85,17 @@ jQuery( document ).ready( function($) {
               // e.preventDefault();
               if (currentFocus > -1) {
                 /*and simulate a click on the "active" item:*/
-                if (x) x[currentFocus].click();
-                good_id=get_satisfying_post_id(input_val,search_data);
-                show_articles(cpt,good_id);
+                if (x){
+
+                    x[currentFocus].click();
+                    show_articles();
+                
+                }
               }
             }
         });
+
+
         function addActive(x) {
           /*a function to classify an item as "active":*/
           if (!x) return false;
@@ -118,8 +124,8 @@ jQuery( document ).ready( function($) {
       }
       /*execute a function when someone clicks in the document:*/
       document.addEventListener("click", function (e) {
+          show_articles();
           closeAllLists(e.target);
-          
           
       });
       }
@@ -130,8 +136,12 @@ jQuery( document ).ready( function($) {
         search_data_name=document.getElementsByClassName('rbw-autocomplete')[0].getAttribute('searching-data');
         search_bar_id='rbw-search-input-'+cpt;
         search_data=searchdata[search_data_name+'_autocomplete'];
-        console.log(search_data);
-        autocomplete(document.getElementById(search_bar_id),cpt,search_data);
+
+        autocomplete(document.getElementById(search_bar_id),search_data);
     }  
 
 });
+
+
+
+
