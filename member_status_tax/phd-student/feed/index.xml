@@ -12,16 +12,100 @@
 	<atom:link href="/member_status_tax/phd-student/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Physique Quantique &#38; Applications</description>
-	<lastBuildDate>Sat, 15 Oct 2022 21:33:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 08:28:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Castin Yvan</title>
-		<link>/member/castin-yvan/</link>
+		<title>Maitre Anne</title>
+		<link>/member/maitre-anne/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 08:28:18 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=member&#038;p=2452</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Joos Maxime</title>
+		<link>/member/joos-maxime/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 07:32:12 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=member&#038;p=2421</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gleyzes Sebastien</title>
+		<link>/member/gleyzes-sebastien/</link>
+		
+		<dc:creator><![CDATA[olivier]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 17:53:43 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=member&#038;p=2374</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gerbier Fabrice</title>
+		<link>/member/gerbier-fabrice/</link>
+		
+		<dc:creator><![CDATA[olivier]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 17:51:44 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=member&#038;p=2373</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Rousselle Olivier</title>
+		<link>/member/rousselle-olivier/</link>
+		
+		<dc:creator><![CDATA[olivier]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 17:48:20 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=member&#038;p=2372</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cherroret Nicolas</title>
+		<link>/member/cherroret-nicolas/</link>
+		
+		<dc:creator><![CDATA[olivier]]></dc:creator>
+		<pubDate>Sun, 23 Oct 2022 16:22:51 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=member&#038;p=2368</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Claude Ferdinand</title>
+		<link>/member/claude-ferdinand/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 14 Oct 2022 17:35:52 +0000</pubDate>
